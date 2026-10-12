@@ -25,7 +25,7 @@ Searches such as Romantic AI chat companion, Romantic AI roleplay chats, and Rom
 | **Remembers context** | Chats, personas, and scenes help you return to the next task fast. |
 | **Fast feedback** | Open Romantic AI, pick a chat, and reply without switching tools. |
 
-![Romantic AI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaDCmkDDHCAD7MLqY3ktAfwwUlAL3ttcdzpGJqhmvNEmpRuQobcOxSKdja&s=10)
+![Romantic AI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6izZnVBkv4jLYom9oCQLwEN_xuJLu7z-AV_GTFzwfBA&s)
 
 ## Key Features of Romantic AI
 
